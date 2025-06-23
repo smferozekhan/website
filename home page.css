@@ -1,0 +1,317 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(res\ 5.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}   
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between;
+    background-color: white;
+
+}
+nav ul li{
+           margin-top:30px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+
+nav ul li a:hover{
+    background-color: red;
+    color: white;
+}
+
+.food{
+    background-image: url(foodex\ 25.jpg);
+    width: 1250px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover  ;
+}
+.food pre{
+    position:absolute;
+   font-size: 40px;
+   top: 15%;
+   text-transform: uppercase;
+   font-weight:bold;
+   margin-left: 300px;
+   color:white;
+}
+pre{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 100px;
+    font-size  : bold;
+    
+}
+.menu button{
+width: 200px;
+ margin-top: 30px;
+ margin-left: 100px; 
+height: 30px;
+background-color: red;
+color: white;
+font-size:20px;
+}
+.menu button:hover{
+    background-color: black;
+}
+.pickup button{
+    width: 200px; 
+    margin-left: 550px;
+    top: 118%;
+    position: absolute;
+    height: 30px;
+    background-color: red;
+    color: white;
+    font-size:20px;
+}
+.pickup button:hover{
+    background-color:black;
+}
+.table button{
+    width: 200px;
+    margin-left: 1000px;
+    top:118%;
+    position: absolute;
+    height: 30px;
+    background-color: red;
+    color:white;
+    font-size:20px;
+}
+.table button:hover{
+    background-color: black;
+}
+.fourbox{
+    width:1500px;
+  height: 800px;
+
+
+  
+  
+}
+
+.firstimage{
+    width: 600px;
+    height: 400px;
+    background-image: url(food\ 6.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 150%;
+    position: absolute;
+    
+
+    
+}
+.firstpara{
+    width: 600px;
+    height:400px;
+    background-color:white;
+    top: 150%;
+    position: absolute;
+    margin-left:610px;
+    
+}
+.secimage{
+    width: 600px;
+    height: 400px;
+    background-image: url(foodeatex1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   position: absolute;
+    top: 220%;
+    margin-left:610px;
+    
+}
+.secpara{
+    width: 600px;
+    height: 400px;
+    background-color:white;
+    top:220%;
+    position: absolute;
+    
+
+}
+.fpinsidediv pre{
+    width: 300px;
+    height: 150px;
+    top: 20%;
+    position: absolute;
+    
+
+}
+.firstpara h4{
+    margin: 30px;
+    color: red;
+    font-size: 20px;
+}
+.firstpara h1{
+    margin-left: 30px;
+}
+.spinsidediv pre{
+    width: 300px;
+    height: 150px;
+    top: 20%;
+    position: absolute;
+    
+}
+.secpara h4{
+    margin: 30px;
+    color: red;
+    font-size: 20px;
+}
+.secpara h1{
+    margin-left: 30px;
+}
+.whitediv{
+    height: 2200px;
+    width: 1220px;
+    background-color: white;
+    top:290%;
+    position: absolute;
+}
+.reserveform h1{
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+}
+.reserveform h3{
+    color: red;
+    text-align: center; 
+}
+.reserveform label{
+    margin-left: 20px;
+}
+.reserveform input{
+    margin-left: 20px;
+    width: 300px;
+    height: 30px;
+}
+.reserveform button{
+    background-color: red;
+    color: white;
+    width: 300px;
+    height: 30px;
+    margin-left: 80px;
+    top: 85%;
+    position: absolute;
+}
+.onlineform h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.onlineform h3{
+    color: white;
+    text-align: center;
+}
+.onlineform pre{
+    color:white;
+    font-size:20px;
+    margin-left:30px;
+
+}
+.onlineform button{
+    background-color: white;
+    color: red;
+    width: 300px;
+    height: 30px;
+    margin-left: 80px;
+    top: 85%;
+    position: absolute;
+}
+.onlineform button:hover{
+    background-color:black;
+    
+}
+
+.spinsidediv button{
+    top: 360px;
+     position: absolute;
+     margin-left: 30px ;
+     background-color: red;
+     color: white;
+     width: 150px;
+     height: 30px;
+     
+}
+.spinsidediv button:hover{
+    background-color: black;
+}
+.fpinsidediv button{
+    top: 350px;
+    position: absolute;
+    margin-left: 30px ;
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
+.fpinsidediv button:hover{
+    background-color: black;
+}
+.endbox{
+    width: 1500px;
+    height: 400px;
+    background-color: red;
+    top:780%;
+    position: absolute;
+    
+}
+.reserveform button:hover{
+    background-color:black;
+}
+.endcontent button{
+    background-color:white;
+    color: red;
+    margin-left: 594px;
+    top: 55%;
+    position: absolute;
+    width: 100px;
+    height: 33px ;
+}
+.endcontent button:hover{
+    background-color:black;
+}
+
+.endcontent h1{
+    color: white;
+    top: 20%;
+    position: absolute;
+    margin-left:290px;
+}
+
+.endside1{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left: 750px;
+}
+.endside2{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left: 1050px;
+}
+.endside3{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left:1300px;
+    
+}
+
+
+     

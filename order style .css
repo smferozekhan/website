@@ -1,0 +1,621 @@
+.nav1 nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between;
+    background-color: white;
+
+}
+.nav1 nav ul li{
+           margin-top:30px;
+}
+.nav1 nav ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+nav ul li a:hover{
+    background-color: red;
+    color: white;
+}
+.pickupht h3:hover{
+    background-color: black;
+}
+.deliveryht h3:hover{
+    background-color: black;
+}
+.buynowbox1  button:hover{
+    background-color:black;
+}
+.buynowbox2 button:hover{
+    background-color:black;
+
+}.buynowbox3 button:hover{
+    background-color:black;
+
+}.buynowbox4 button:hover{
+    background-color:black;
+
+}.buynowbox5 button:hover{
+    background-color:black;
+
+}.buynowbox6 button:hover{
+    background-color:black;
+}
+.buynowbox1  button:hover{
+    background-color:black;
+}
+.buynowbox2 button:hover{
+    background-color:black;
+
+}.buynowbox3 button:hover{
+    background-color:black;
+
+}.buynowbox10 button:hover{
+    background-color:black;
+
+}.buynowbox11 button:hover{
+    background-color:black;
+
+}.buynowbox12 button:hover{
+    background-color:black;
+}.buynowbox13  button:hover{
+    background-color:black;
+}
+.buynowbox14 button:hover{
+    background-color:black;
+
+}.buynowbox15 button:hover{
+    background-color:black;
+
+}.buynowbox16 button:hover{
+    background-color:black;
+
+}.buynowbox17 button:hover{
+    background-color:black;
+
+}.buynowbox18 button:hover{
+    background-color:black;
+}
+.buynowbox1 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 260%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox2 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 260%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox3 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 340%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox4 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 340%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox5 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 420%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox6 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 420%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox7 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 508%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox8 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 508%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox9 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 588%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox10 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 588%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox11 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 668%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox12 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 668%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox13 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 758%;
+    position: absolute;
+    border-radius: 20px;
+}.buynowbox14 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 758%;
+    position: absolute;
+    border-radius: 20px;
+}.buynowbox15 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 838%;
+    position: absolute;
+    border-radius: 20px;
+}.buynowbox16 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 838%;
+    position: absolute;
+    border-radius: 20px;
+}.buynowbox17 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 918%;
+    position: absolute;
+    border-radius: 20px;
+}
+.buynowbox18 button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    margin-left: 80px;
+    text-align: center;
+    top: 918%;
+    position: absolute;
+    border-radius: 20px;
+}
+.fastfood{
+    background-color: white;
+    width: 1000px;
+    height: 1500px;
+    flex-wrap:wrap;
+    display: flex;
+    margin-left: 100px;
+}
+.food24{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food25{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food16{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food3{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food12{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food28{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+    
+.food24 img{
+    width: 350px;
+    height: 250px;
+    top: 204%;
+    position: absolute; 
+}
+.food25 img{
+    width: 350px;
+    height: 250px;
+    top: 204%;
+    position: absolute; 
+}
+.food16 img{
+    width: 350px;
+    height: 250px;
+    top: 284%;
+    position: absolute; 
+}
+.food3 img{
+    width: 350px;
+    height: 250px;
+    top: 284%;
+    position: absolute; 
+}
+.food12 img{
+    width: 350px;
+    height: 250px;
+    top: 364%;
+    position: absolute; 
+}
+.food28 img{
+    width: 350px;
+    height: 250px;
+    top: 364%;
+    position: absolute; 
+}
+.friedrice{
+    background-color: white;
+    width: 1000px;
+    height: 1500px;
+    flex-wrap:wrap;
+    display: flex;
+    margin-left: 100px;
+}
+.food34{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food33{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food32{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food31{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food30{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.food29{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+    
+.food34 img{
+    width: 350px;
+    height: 250px;
+    top: 453%;
+    position: absolute; 
+}
+.food33 img{
+    width: 350px;
+    height: 250px;
+    top: 454%;
+    position: absolute; 
+}
+.food32 img{
+    width: 350px;
+    height: 250px;
+    top: 533%;
+    position: absolute; 
+}
+.food31 img{
+    width: 350px;
+    height: 250px;
+    top: 533%;
+    position: absolute; 
+}
+.food30 img{
+    width: 350px;
+    height: 250px;
+    top: 614%;
+    position: absolute; 
+}
+.food29 img{
+    width: 350px;
+    height: 250px;
+    top: 614%;
+    position: absolute; 
+}
+.juice{
+    background-color: white;
+    width: 1000px;
+    height: 1500px;
+    flex-wrap:wrap;
+    display: flex;
+    margin-left: 100px;
+}
+.juice6{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.juice5{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.juice4{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.juice3{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.juice2{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+.juice1{
+    width: 350px;
+    height: 400px;
+    margin: 50px;
+    border: 5px solid;
+    border-color:black
+   
+}
+    
+.juice6 img{
+    width: 350px;
+    height: 250px;
+    top: 704%;
+    position: absolute; 
+}
+.juice5 img{
+    width: 350px;
+    height: 250px;
+    top: 704%;
+    position: absolute; 
+}
+.juice4 img{
+    width: 350px;
+    height: 250px;
+    top: 784%;
+    position: absolute; 
+}
+.juice3 img{
+    width: 350px;
+    height: 250px;
+    top: 784%;
+    position: absolute; 
+}
+.juice2 img{
+    width: 350px;
+    height: 250px;
+    top: 864%;
+    position: absolute; 
+}
+.juice1 img{
+    width: 350px;
+    height: 250px;
+    top: 864%;
+    position: absolute; 
+}
+.endbox{
+    width: 1500px;
+    height: 400px;
+    background-color: red;
+    top:960%;
+    position: absolute;
+    
+}
+
+
+.endcontent h1{
+    color: white;
+    top: 20%;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.endside1{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left: 750px;
+}
+.endside2{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left: 1050px;
+}
+.endside3{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left:1300px;
+    
+}
+.nav2 nav ul {
+    list-style-type: none;
+    display: flex;
+    background-color:white;
+    margin-left: 30px;
+    width: 800px;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav2 nav ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    align-items: center;
+
+}
+.endcontent button:hover{
+    background-color:black;
+}
+.endcontent button{
+    color:red
+    ;background-color: white;
+    width: 100px;height: 34px;
+    top:55%;
+    position: absolute;
+    margin-left:507px;
+}
+
+     

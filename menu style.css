@@ -1,0 +1,183 @@
+
+body{
+    background-color: rgb(238, 203, 178);
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between;
+    background-color: white;
+
+}
+nav ul li{
+           margin-top:30px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+nav ul li a:hover{
+    background-color: red;
+    color: white;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.menubox{
+    height: 2600px;
+    width: 1000px;
+    background-color: white;
+    margin-left:150px;
+}
+
+.menubox h2{
+    color:white;
+    background-color: red;
+    top: 45%;
+    position: absolute;
+    margin-left: 90px;
+    width: 800px;
+    height: 50px;
+    font-size: 25px;
+
+}
+.startersimage{
+    width: 800px;
+    height: 500px;
+    background-image: url(food\ 23.jfif );
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 60%;
+    position: absolute;
+    margin-left: 90px;
+}
+.startersimage h3{
+    margin-left: 70PX;
+    margin-top: 50PX;
+    color:red;
+    border-bottom: 2px solid;
+}
+.startersimage h4{
+    margin-left: 700px;
+    color: red;
+}
+.riceimage{
+    width: 800px;
+    height: 500px;
+    background-image: url(food\ 19.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 150%;
+    position: absolute;
+    margin-left: 90px;
+}
+.riceimage h3{
+    margin-left: 70PX;
+    margin-top: 50PX;
+    color:white;
+    border-bottom: 2px solid;
+    text-transform: uppercase;
+}
+.riceimage h4{
+    margin-left: 700px;
+    color:white ;
+}
+.friedriceimage{
+    width: 800px;
+    height: 500px;
+    background-image: url(rice.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top:240%;
+    position: absolute;
+    margin-left: 90px;
+}
+.friedriceimage h3{
+    margin-left: 70PX;
+    margin-top: 50PX;
+    color:red;
+    border-bottom: 2px solid;
+}
+.friedriceimage h4{
+    margin-left: 700px;
+    color:red;
+}
+.juiceimage{
+    width: 800px;
+    height: 500px;
+    background-image: url(cool.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top:340%;
+    position: absolute;
+    margin-left: 90px;
+}
+.juiceimage h3{
+    margin-left: 70PX;
+    margin-top: 50PX;
+    color:white;
+    border-bottom: 2px solid;
+}
+.juiceimage h4{
+    margin-left: 700px;
+    color: white;
+}
+.endbox{
+    width: 1500px;
+    height: 400px;
+    background-color: red;
+    top:440%;
+    position: absolute;
+    
+}
+
+
+.endcontent h1{
+    color: white;
+    top: 20%;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.endside1{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left: 750px;
+}
+.endside2{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left: 1050px;
+}
+.endside3{
+    width: 250px;
+    height: 300px;
+    top:10%;
+    position: absolute;
+    margin-left:1300px;
+    
+}
+.endcontent button{
+    color:red;
+    background-color: white;
+    width: 100px;
+    height: 34px;
+    top:55%;
+    position: absolute;
+    margin-left:507px;
+}
+.endcontent button:hover{
+    background-color: black;
+}
+
+
+     
